@@ -35,8 +35,6 @@ A UERJ RESISTE!
      <br>
       <br>
     
-      
-      <p align ="center"><a href ='https://liscustodio.github.io/deputadosfederais/'><font color="blue">[Página Principal]</font></a></p>
 </font>
         
       
